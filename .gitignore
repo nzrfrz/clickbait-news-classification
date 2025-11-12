@@ -1,0 +1,10 @@
+venv/
+.env/
+env/
+
+# Ignore system & temporary files
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+.DS_Store
